@@ -1,0 +1,38 @@
+[
+    {
+        "query": "When does the library open?",
+        "score": 0.3207802176475525
+    },
+    {
+        "query": "Is breakfast available in the canteen?",
+        "score": 0.25793105363845825
+    },
+    {
+        "query": "What is the attendance percentage needed?",
+        "score": 0.47351956367492676
+    },
+    {
+        "query": "Mess breakfast timing?",
+        "score": 0.18570590019226074
+    },
+    {
+        "query": "What time should I be in the exam hall?",
+        "score": 0.33749324083328247
+    },
+    {
+        "query": "How do I sign up for the bus service?",
+        "score": 0.30297455191612244
+    },
+    {
+        "query": "Hostel gate closing time?",
+        "score": 0.39038053154945374
+    },
+    {
+        "query": "क्या कैंपस में खेल की सुविधा है?",
+        "score": 0.12986141443252563
+    },
+    {
+        "query": "where is Kmclu located?",
+        "score": 0.45502158999443054
+    }
+]

@@ -1,4 +1,226 @@
 [
-  {"question": "What are the library timings?", "answer": "The library is open from 9 AM to 6 PM."},
-  {"question": "How to contact the admin office?", "answer": "You can reach the admin office at admin@campus.edu."}
+  {
+    "question": "How to apply for hostel admission?",
+    "answer": "Go to the hostel portal, fill the form, upload documents and pay the fee."
+  },
+  {
+    "question": "हॉस्टल प्रवेश के लिए आवेदन कैसे करें?",
+    "answer": "हॉस्टल पोर्टल पर जाएं, फॉर्म भरें, दस्तावेज अपलोड करें और शुल्क जमा करें।"
+  },
+  {
+    "question": "Hostel admission ke liye apply kaise karu?",
+    "answer": "Portal par jaake form fill karo, documents upload karo aur fee pay karo."
+  },
+  {
+    "question": "হোস্টেলে ভর্তি কিভাবে আবেদন করব?",
+    "answer": "হোস্টেল পোর্টালে যান, ফর্ম পূরণ করুন, নথি আপলোড করুন এবং ফি জমা করুন।"
+  },
+  {
+    "question": "હોસ્ટેલ પ્રવેશ માટે અરજી કેવી રીતે કરવી?",
+    "answer": "હોસ્ટેલ પોર્ટલ પર જાઓ, ફોર્મ ભરો, દસ્તાવેજો અપલોડ કરો અને ફી ભરો."
+  },
+  {
+    "question": "ഹോസ്റ്റൽ പ്രവേശനത്തിന് എങ്ങനെ അപേക്ഷിക്കാം?",
+    "answer": "ഹോസ്റ്റൽ പോർട്ടലിൽ പോകുക, ഫോം പൂരിപ്പിക്കുക, രേഖകൾ അപ്ലോഡ് ചെയ്യുക, ഫീസ് അടയ്ക്കുക."
+  },
+
+  {
+    "question": "What is the process to get migration certificate?",
+    "answer": "Visit your current university, submit application with documents and get migration certificate."
+  },
+  {
+    "question": "माइग्रेशन सर्टिफिकेट प्राप्त करने की प्रक्रिया क्या है?",
+    "answer": "अपनी वर्तमान यूनिवर्सिटी में आवेदन करें, दस्तावेज जमा करें और माइग्रेशन सर्टिफिकेट प्राप्त करें।"
+  },
+  {
+    "question": "Migration certificate lene ki process kya hai?",
+    "answer": "Apni university me application do, documents jama karo aur migration certificate le lo."
+  },
+  {
+    "question": "মাইগ্রেশন সার্টিফিকেট কিভাবে পাবো?",
+    "answer": "আপনার বর্তমান বিশ্ববিদ্যালয়ে আবেদন করুন, নথি জমা দিন এবং মাইগ্রেশন সার্টিফিকেট সংগ্রহ করুন।"
+  },
+  {
+    "question": "માઇગ્રેશન પ્રમાણપત્ર મેળવવાની પ્રક્રિયા શું છે?",
+    "answer": "તમારી વર્તમાન યુનિવર્સિટીમાં અરજી કરો, દસ્તાવેજો જમા કરો અને માઇગ્રેશન પ્રમાણપત્ર મેળવો."
+  },
+  {
+    "question": "മൈഗ്രേഷൻ സർട്ടിഫിക്കറ്റ് എങ്ങനെ നേടാം?",
+    "answer": "നിങ്ങളുടെ സർവകലാശാലയിൽ അപേക്ഷിക്കുക, രേഖകൾ സമർപ്പിക്കുക, സർട്ടിഫിക്കറ്റ് നേടുക."
+  },
+
+  {
+    "question": "How to apply for girl student scholarship?",
+    "answer": "Fill scholarship form online, upload income certificate and submit before last date."
+  },
+  {
+    "question": "लड़कियों की छात्रवृत्ति के लिए आवेदन कैसे करें?",
+    "answer": "ऑनलाइन छात्रवृत्ति फॉर्म भरें, आय प्रमाण पत्र अपलोड करें और अंतिम तिथि से पहले जमा करें।"
+  },
+  {
+    "question": "Girl student scholarship ke liye apply kaise kare?",
+    "answer": "Online scholarship form fill karo, income certificate upload karo aur last date se pehle submit karo."
+  },
+  {
+    "question": "মেয়েদের স্কলারশিপের জন্য আবেদন কিভাবে করব?",
+    "answer": "অনলাইনে ফর্ম পূরণ করুন, আয় শংসাপত্র আপলোড করুন এবং শেষ তারিখের আগে জমা করুন।"
+  },
+  {
+    "question": "છોકરીઓની સ્કોલરશિપ માટે અરજી કેવી રીતે કરવી?",
+    "answer": "ઓનલાઇન ફોર્મ ભરો, આવકનો સર્ટિફિકેટ અપલોડ કરો અને છેલ્લી તારીખ પહેલાં સબમિટ કરો."
+  },
+  {
+    "question": "പെൺകുട്ടികൾക്കുള്ള സ്കോളർഷിപ്പിന് എങ്ങനെ അപേക്ഷിക്കാം?",
+    "answer": "ഓൺലൈനിൽ ഫോമിൽ വിവരങ്ങൾ പൂരിപ്പിക്കുക, വരുമാന സർട്ടിഫിക്കറ്റ് അപ്ലോഡ് ചെയ്യുക, അവസാന തീയതിക്ക് മുൻപ് സമർപ്പിക്കുക."
+  },
+
+  {
+    "question": "How to cancel allotted seat?",
+    "answer": "Login to counselling portal, choose cancel option and apply for refund."
+  },
+  {
+    "question": "आवंटित सीट कैसे रद्द करें?",
+    "answer": "काउंसलिंग पोर्टल में लॉगिन करें, रद्द विकल्प चुनें और रिफंड के लिए आवेदन करें।"
+  },
+  {
+    "question": "Seat allot cancel kaise kare?",
+    "answer": "Counselling portal me login karo, cancel option select karo aur refund apply karo."
+  },
+  {
+    "question": "আলটেড সিট কিভাবে বাতিল করব?",
+    "answer": "কাউন্সেলিং পোর্টালে লগইন করুন, ক্যানসেল অপশন নির্বাচন করুন এবং রিফান্ডের জন্য আবেদন করুন।"
+  },
+  {
+    "question": "ફાળવેલી બેઠક કેવી રીતે રદ કરવી?",
+    "answer": "કાઉન્સેલિંગ પોર્ટલમાં લોગિન કરો, કેન્સલ વિકલ્પ પસંદ કરો અને રિફંડ માટે અરજી કરો."
+  },
+  {
+    "question": "അലോട്ടുചെയ്‌ത സീറ്റ് എങ്ങനെ റദ്ദാക്കാം?",
+    "answer": "കൗൺസിലിംഗ് പോർട്ടലിൽ ലോഗിൻ ചെയ്യുക, റദ്ദാക്കൽ ഓപ്ഷൻ തിരഞ്ഞെടുക്കുക, റീഫണ്ട് അപേക്ഷിക്കുക."
+  },
+
+  {
+    "question": "How to correct mistake in application form?",
+    "answer": "Use correction window on portal or contact helpdesk before deadline."
+  },
+  {
+    "question": "आवेदन पत्र में गलती कैसे सुधारें?",
+    "answer": "पोर्टल पर करेक्शन विंडो का उपयोग करें या अंतिम तिथि से पहले हेल्पडेस्क से संपर्क करें।"
+  },
+  {
+    "question": "Form me mistake kaise correct karun?",
+    "answer": "Portal ke correction window ka use karo ya helpdesk contact karo deadline ke pehle."
+  },
+  {
+    "question": "আবেদনের ভুল কিভাবে ঠিক করব?",
+    "answer": "পোর্টালের কারেকশন উইন্ডো ব্যবহার করুন অথবা শেষ তারিখের আগে হেল্পডেস্কে যোগাযোগ করুন।"
+  },
+  {
+    "question": "અરજી ફોર્મમાં ભૂલ કેવી રીતે સુધારવી?",
+    "answer": "પોર્ટલ પર કરેકશન વિંડો વાપરો અથવા અંતિમ તારીખ પહેલાં હેલ્પડેસ્કનો સંપર્ક કરો."
+  },
+  {
+    "question": "അപേക്ഷാ ഫോമിലെ തെറ്റ് എങ്ങനെ തിരുത്താം?",
+    "answer": "പോർട്ടലിലെ പരിഷ്കരണ വിൻഡോ ഉപയോഗിക്കുക അല്ലെങ്കിൽ അവസാന തീയതിക്ക് മുമ്പ് ഹെൽപ്ഡെസ്കുമായി ബന്ധപ്പെടുക."
+  },
+
+  {
+    "question": "How to check previous year cutoff?",
+    "answer": "Visit official portal or university website to check last year cutoff list."
+  },
+  {
+    "question": "पिछले साल का कटऑफ कैसे देखें?",
+    "answer": "आधिकारिक पोर्टल या विश्वविद्यालय की वेबसाइट पर जाकर पिछली कटऑफ सूची देखें।"
+  },
+  {
+    "question": "Previous cutoff kaise check kare?",
+    "answer": "Official portal ya university site par jaake last year cutoff check karo."
+  },
+  {
+    "question": "গত বছরের কাটঅফ কিভাবে দেখব?",
+    "answer": "অফিসিয়াল পোর্টাল বা বিশ্ববিদ্যালয়ের ওয়েবসাইটে যান এবং গত বছরের কাটঅফ দেখুন।"
+  },
+  {
+    "question": "ગયા વર્ષની કટઓફ કેવી રીતે તપાસવી?",
+    "answer": "સત્તાવાર પોર્ટલ અથવા યુનિવર્સિટી વેબસાઇટ પર જાઓ અને ગયા વર્ષની કટઓફ તપાસો."
+  },
+  {
+    "question": "കഴിഞ്ഞ വർഷത്തെ കട്ട്-ഓഫ് എങ്ങനെ പരിശോധിക്കാം?",
+    "answer": "അധികാരിക പോർട്ടൽ അല്ലെങ്കിൽ സർവകലാശാല വെബ്‌സൈറ്റിൽ ചെന്നു കഴിഞ്ഞ വർഷത്തെ കട്ട്-ഓഫ് പരിശോധിക്കുക."
+  },
+
+  {
+    "question": "How to register for counselling?",
+    "answer": "Go to UPTAC portal, sign up, fill details and pay registration fee."
+  },
+  {
+    "question": "काउंसलिंग के लिए पंजीकरण कैसे करें?",
+    "answer": "यूपीटैक पोर्टल पर जाएं, साइन अप करें, विवरण भरें और पंजीकरण शुल्क जमा करें।"
+  },
+  {
+    "question": "Counselling ke liye register kaise kare?",
+    "answer": "UPTAC portal par signup karo, details fill karo aur registration fee pay karo."
+  },
+  {
+    "question": "কাউন্সেলিংয়ের জন্য রেজিস্ট্রেশন কিভাবে করব?",
+    "answer": "UPTAC পোর্টালে যান, সাইন আপ করুন, তথ্য পূরণ করুন এবং নিবন্ধন ফি দিন।"
+  },
+  {
+    "question": "કાઉન્સેલિંગ માટે નોંધણી કેવી રીતે કરવી?",
+    "answer": "UPTAC પોર્ટલ પર જાઓ, સાઇન અપ કરો, વિગતો ભરો અને ફી ભરો."
+  },
+  {
+    "question": "കൗൺസിലിംഗിനായി രജിസ്റ്റർ എങ്ങനെ ചെയ്യാം?",
+    "answer": "UPTAC പോർട്ടലിൽ പോകുക, സൈൻ അപ് ചെയ്യുക, വിശദാംശങ്ങൾ പൂരിപ്പിക്കുക, ഫീസ് അടയ്ക്കുക."
+  },
+
+  {
+    "question": "How to update mobile number in application?",
+    "answer": "Login to application portal, go to profile and update mobile number."
+  },
+  {
+    "question": "आवेदन में मोबाइल नंबर कैसे अपडेट करें?",
+    "answer": "एप्लीकेशन पोर्टल में लॉगिन करें, प्रोफ़ाइल में जाएं और मोबाइल नंबर अपडेट करें।"
+  },
+  {
+    "question": "Application me mobile number kaise update kare?",
+    "answer": "Portal me login karo, profile section me jao aur mobile number update karo."
+  },
+  {
+    "question": "আবেদনে মোবাইল নম্বর কিভাবে আপডেট করব?",
+    "answer": "অ্যাপ্লিকেশন পোর্টালে লগইন করুন, প্রোফাইলে যান এবং মোবাইল নম্বর আপডেট করুন।"
+  },
+  {
+    "question": "અરજીમાં મોબાઇલ નંબર કેવી રીતે અપડેટ કરવો?",
+    "answer": "એપ્લિકેશન પોર્ટલમાં લોગિન કરો, પ્રોફાઇલમાં જાઓ અને મોબાઇલ નંબર અપડેટ કરો."
+  },
+  {
+    "question": "അപേക്ഷയിൽ മൊബൈൽ നമ്പർ എങ്ങനെ അപ്ഡേറ്റ് ചെയ്യാം?",
+    "answer": "അപ്ലിക്കേഷൻ പോർട്ടലിൽ ലോഗിൻ ചെയ്യുക, പ്രൊഫൈലിൽ പോയി മൊബൈൽ നമ്പർ അപ്ഡേറ്റ് ചെയ്യുക."
+  },
+
+  {
+    "question": "How to apply for MBA admission?",
+    "answer": "Register on CUET portal, fill MBA form, upload documents and pay the fee."
+  },
+  {
+    "question": "एमबीए प्रवेश के लिए आवेदन कैसे करें?",
+    "answer": "सीयूईटी पोर्टल पर पंजीकरण करें, एमबीए फॉर्म भरें, दस्तावेज अपलोड करें और शुल्क जमा करें।"
+  },
+  {
+    "question": "MBA admission ke liye apply kaise karu?",
+    "answer": "CUET portal par register karo, MBA form bharo, documents upload karo aur fee pay karo."
+  },
+  {
+    "question": "এমবিএ ভর্তি জন্য কিভাবে আবেদন করব?",
+    "answer": "CUET পোর্টালে নিবন্ধন করুন, এমবিএ ফর্ম পূরণ করুন, নথি আপলোড করুন এবং ফি দিন।"
+  },
+  {
+    "question": "એમબીએ પ્રવેશ માટે અરજી કેવી રીતે કરવી?",
+    "answer": "CUET પોર્ટલ પર નોંધણી કરો, MBA ફોર્મ ભરો, દસ્તાવેજો અપલોડ કરો અને ફી ભરો."
+  },
+  {
+    "question": "എം.ബി.എ പ്രവേശനത്തിന് എങ്ങനെ അപേക്ഷിക്കാം?",
+    "answer": "CUET പോർട്ടലിൽ രജിസ്റ്റർ ചെയ്യുക, MBA ഫോം പൂരിപ്പിക്കുക, രേഖകൾ അപ്ലോഡ് ചെയ്യുക, ഫീസ് അടയ്ക്കുക."
+  }
 ]

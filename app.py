@@ -59,17 +59,18 @@ def query():
     if not user_query:
         return jsonify({'answer': "I didn't receive a query."})
 
-    greet_text="hello"
+    user_lower = user_query.lower()
+    
+    # Check greetings first
     for greet in greetings:
-        if greet in user_query.lower():
+        if greet in user_lower:
             greet_text = greet.capitalize()
             return jsonify({'answer': f"{greet_text}! How can I help you today?"})
-        else:
-            return jsonify({'answer':"hello! How can I help you today?"})
 
-
+    # Agar greeting nahi, normal chatbot logic
     bot_response = get_answer(user_query)
     return jsonify({'answer': bot_response})
+
 
 if __name__ == "__main__":
     app.run(debug=True)
